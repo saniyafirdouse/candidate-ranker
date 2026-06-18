@@ -1,0 +1,24 @@
+# Large datasets
+data/
+
+# Keep small sample files if needed
+!data/sample_candidates.json
+!data/job_description.docx
+
+# Output files
+submission.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
