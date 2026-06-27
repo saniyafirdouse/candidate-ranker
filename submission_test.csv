@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0000031,1,0.786249,"Ranked #1 (0.786): Recommendation Systems Engineer at Swiggy; career evidence of ranking, shipped; 6yr mostly at product companies."
+CAND_0000422,2,0.764342,"Ranked #2 (0.764): AI Research Engineer at Haptik; career evidence of pytorch, hugging face; 6.3yr mostly at product companies. Concerns: long notice period (90 days)."
+CAND_0000200,3,0.683337,Ranked #3 (0.683): ML Engineer at Aganitha; 4.3yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000273,4,0.674627,"Ranked #4 (0.675): ML Engineer at BYJU'S; career evidence of ranking, production; 5.8yr mostly at product companies."
+CAND_0000165,5,0.550184,"Ranked #5 (0.550): career evidence of fine-tun, pytorch; 6.8yr mostly at product companies. Concerns: relocation required, 120-day notice period."
+CAND_0000026,6,0.458132,Ranked #6 (0.458): 6.8yr mostly at product companies.
+CAND_0000160,7,0.457619,Ranked #7 (0.458): 7yr mostly at product companies. Concerns: 120-day notice period.
+CAND_0000120,8,0.457,Ranked #8 (0.457): career evidence of production; 5.7yr mostly at product companies.
+CAND_0000255,9,0.456188,Ranked #9 (0.456): 8yr mostly at product companies. Concerns: 150-day notice period.
+CAND_0000112,10,0.449577,"Ranked #10 (0.450): career evidence of pytorch, hugging face; 3.8yr mostly at product companies."
+CAND_0000275,11,0.442102,Ranked #11 (0.442): 7.8yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000038,12,0.438324,Ranked #12 (0.438): 6.7yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000390,13,0.437538,"Ranked #13 (0.438): 6.6yr mostly at product companies. Concerns: based outside India (USA), not willing to relocate, 120-day notice period."
+CAND_0000395,14,0.432558,"Ranked #14 (0.433): career evidence of shipped, airflow; 3.8yr mostly at product companies."
+CAND_0000333,15,0.429868,Ranked #15 (0.430): skills include rag; 7.4yr mostly at product companies. Concerns: 120-day notice period.
+CAND_0000131,16,0.428757,"Ranked #16 (0.429): career evidence of shipped, airflow; 4.8yr mostly at product companies."
+CAND_0000061,17,0.42847,Ranked #17 (0.428): skills include rag; 7.7yr mostly at product companies.
+CAND_0000461,18,0.425077,Ranked #18 (0.425): 6.7yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000227,19,0.422425,"Ranked #19 (0.422): 7.6yr mostly at product companies. Concerns: some consulting background, long notice period (90 days)."
+CAND_0000129,20,0.41727,"Ranked #20 (0.417): skills include production; 8yr mostly at product companies. Concerns: relocation required, 120-day notice period."
+CAND_0000015,21,0.414283,Ranked #21 (0.414): 5.4yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000306,22,0.41414,Ranked #22 (0.414): career evidence of production; 12.6yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000327,23,0.408006,Ranked #23 (0.408): career evidence of llm; 9.6yr mostly at product companies. Concerns: 150-day notice period.
+CAND_0000210,24,0.406059,"Ranked #24 (0.406): 6.3yr mostly at product companies. Concerns: based outside India (Germany), not willing to relocate, 120-day notice period."
+CAND_0000119,25,0.399472,Ranked #25 (0.399): skills include production; 10.1yr mostly at product companies. Concerns: 120-day notice period.
+CAND_0000198,26,0.397898,"Ranked #26 (0.398): 6.3yr mostly at product companies. Concerns: relocation required, long notice period (90 days)."
+CAND_0000411,27,0.394987,"Ranked #27 (0.395): career evidence of shipped, airflow; 2.8yr mostly at product companies."
+CAND_0000370,28,0.393971,"Ranked #28 (0.394): skills include production; 5.9yr mostly at product companies. Concerns: relocation required, 120-day notice period."
+CAND_0000134,29,0.392636,Ranked #29 (0.393): skills include rag; 8.6yr mostly at product companies. Concerns: 120-day notice period.
+CAND_0000243,30,0.391337,Ranked #30 (0.391): 5.7yr mostly at product companies. Concerns: 150-day notice period.
+CAND_0000482,31,0.389202,Ranked #31 (0.389): 4.3yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000352,32,0.387544,Ranked #32 (0.388): skills include production; 4.7yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000229,33,0.385802,Ranked #33 (0.386): 2.2yr mostly at product companies.
+CAND_0000190,34,0.380512,Ranked #34 (0.381): 3.7yr mostly at product companies. Concerns: 120-day notice period.
+CAND_0000292,35,0.380012,Ranked #35 (0.380): 2yr mostly at product companies. Concerns: 120-day notice period.
+CAND_0000096,36,0.379823,Ranked #36 (0.380): skills include production; 3.2yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000185,37,0.379296,"Ranked #37 (0.379): 6.1yr mostly at product companies. Concerns: based outside India (USA), not willing to relocate, long notice period (90 days)."
+CAND_0000417,38,0.37875,"Ranked #38 (0.379): skills include rag; 7.8yr mostly at product companies. Concerns: some consulting background, 150-day notice period."
+CAND_0000155,39,0.378658,Ranked #39 (0.379): 3.2yr mostly at product companies.
+CAND_0000225,40,0.378581,"Ranked #40 (0.379): 5yr mostly at product companies. Concerns: based outside India (Germany), not willing to relocate."
+CAND_0000010,41,0.373497,"Ranked #41 (0.373): 4.6yr mostly at product companies. Concerns: based outside India (UK), not willing to relocate, 120-day notice period."
+CAND_0000288,42,0.36826,Ranked #42 (0.368): skills include rag; 2.7yr mostly at product companies.
+CAND_0000133,43,0.365827,"Ranked #43 (0.366): 11.7yr mostly at product companies. Concerns: some consulting background, 120-day notice period."
+CAND_0000054,44,0.365574,Ranked #44 (0.366): 4.9yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000277,45,0.365525,Ranked #45 (0.366): skills include production; 2.1yr mostly at product companies. Concerns: 120-day notice period.
+CAND_0000075,46,0.364829,Ranked #46 (0.365): 5.2yr mostly at product companies. Concerns: some consulting background.
+CAND_0000011,47,0.360475,Ranked #47 (0.360): skills include production; 2yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000152,48,0.357656,Ranked #48 (0.358): skills include production; 4yr mostly at product companies. Concerns: 150-day notice period.
+CAND_0000440,49,0.357182,"Ranked #49 (0.357): 7.5yr mixed product/consulting background. Concerns: some consulting background, long notice period (90 days)."
+CAND_0000284,50,0.356931,Ranked #50 (0.357): 2.4yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000494,51,0.35601,Ranked #51 (0.356): 3.4yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000048,52,0.354616,"Ranked #52 (0.355): 9.7yr mostly at product companies. Concerns: some consulting background, 120-day notice period."
+CAND_0000099,53,0.349179,Ranked #53 (0.349): 2.6yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000127,54,0.347468,Ranked #54 (0.347): skills include rag; 6.7yr mixed product/consulting background. Concerns: some consulting background.
+CAND_0000324,55,0.345676,Ranked #55 (0.346): 2.7yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000111,56,0.345289,Ranked #56 (0.345): 2.5yr mostly at product companies. Concerns: 120-day notice period.
+CAND_0000090,57,0.344549,Ranked #57 (0.345): 1.7yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000110,58,0.34294,"Ranked #58 (0.343): 9.8yr mostly at product companies. Concerns: some consulting background, 150-day notice period."
+CAND_0000345,59,0.340726,"Ranked #59 (0.341): 4.3yr mostly at product companies. Concerns: based outside India (Germany), not willing to relocate, long notice period (90 days)."
+CAND_0000263,60,0.340331,Ranked #60 (0.340): skills include production; 5.4yr mixed product/consulting background. Concerns: some consulting background.
+CAND_0000128,61,0.338647,"Ranked #61 (0.339): 8.5yr mostly at product companies. Concerns: some consulting background, 120-day notice period."
+CAND_0000375,62,0.336252,Ranked #62 (0.336): 1.9yr mostly at product companies.
+CAND_0000354,63,0.334435,Ranked #63 (0.334): 6.3yr mixed product/consulting background. Concerns: currently at consulting firm.
+CAND_0000153,64,0.334138,Ranked #64 (0.334): skills include production; 3.8yr mostly at product companies. Concerns: relocation required.
+CAND_0000462,65,0.3331,Ranked #65 (0.333): skills include production; 2.1yr mostly at product companies.
+CAND_0000487,66,0.330201,Ranked #66 (0.330): skills include rag; 2.7yr mostly at product companies.
+CAND_0000443,67,0.329741,"Ranked #67 (0.330): career evidence of llm; 10.8yr mixed product/consulting background. Concerns: some consulting background, long notice period (90 days)."
+CAND_0000060,68,0.329219,"Ranked #68 (0.329): 8yr mixed product/consulting background. Concerns: some consulting background, 120-day notice period."
+CAND_0000472,69,0.328628,Ranked #69 (0.329): skills include production; 2.9yr mostly at product companies.
+CAND_0000445,70,0.32861,Ranked #70 (0.329): skills include rag; 9.5yr mixed product/consulting background. Concerns: some consulting background.
+CAND_0000307,71,0.326966,"Ranked #71 (0.327): skills include production; 6.8yr experience. Concerns: some consulting background, long notice period (90 days)."
+CAND_0000408,72,0.326729,Ranked #72 (0.327): 3.2yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000238,73,0.324514,"Ranked #73 (0.325): 7.6yr mixed product/consulting background. Concerns: some consulting background, 150-day notice period."
+CAND_0000023,74,0.324439,"Ranked #74 (0.324): 3.7yr mostly at product companies. Concerns: based outside India (USA), not willing to relocate."
+CAND_0000467,75,0.324187,Ranked #75 (0.324): 2.2yr mostly at product companies. Concerns: long notice period (90 days).
+CAND_0000159,76,0.314946,"Ranked #76 (0.315): 4.4yr mostly at product companies. Concerns: based outside India (Singapore), not willing to relocate, long notice period (90 days)."
+CAND_0000182,77,0.313853,Ranked #77 (0.314): skills include production; 5.5yr mixed product/consulting background. Concerns: some consulting background.
+CAND_0000355,78,0.312364,"Ranked #78 (0.312): 12yr mostly at product companies. Concerns: some consulting background, long notice period (90 days)."
+CAND_0000055,79,0.311327,"Ranked #79 (0.311): 7.3yr experience. Concerns: some consulting background, 150-day notice period."
+CAND_0000143,80,0.311291,"Ranked #80 (0.311): 7.7yr mixed product/consulting background. Concerns: some consulting background, 150-day notice period."
+CAND_0000457,81,0.310986,"Ranked #81 (0.311): 2.4yr mostly at product companies. Concerns: relocation required, 150-day notice period."
+CAND_0000094,82,0.307649,Ranked #82 (0.308): 2.6yr mostly at product companies. Concerns: relocation required.
+CAND_0000254,83,0.306859,Ranked #83 (0.307): 5.7yr experience. Concerns: some consulting background.
+CAND_0000280,84,0.305757,"Ranked #84 (0.306): skills include production; 8.2yr experience. Concerns: some consulting background, long notice period (90 days)."
+CAND_0000489,85,0.301803,"Ranked #85 (0.302): 3.9yr mixed product/consulting background. Concerns: some consulting background, long notice period (90 days)."
+CAND_0000043,86,0.295924,"Ranked #86 (0.296): 8.3yr mixed product/consulting background. Concerns: some consulting background, 120-day notice period."
+CAND_0000144,87,0.294219,Ranked #87 (0.294): 14.7yr mixed product/consulting background. Concerns: some consulting background.
+CAND_0000104,88,0.293092,"Ranked #88 (0.293): 8.1yr mostly at product companies. Concerns: some consulting background, based outside India (USA), not willing to relocate."
+CAND_0000343,89,0.29297,"Ranked #89 (0.293): career evidence of airflow; 6.4yr mixed product/consulting background. Concerns: currently at consulting firm, long notice period (90 days)."
+CAND_0000071,90,0.290877,"Ranked #90 (0.291): skills include rag; 1.8yr mostly at product companies. Concerns: relocation required, 120-day notice period."
+CAND_0000447,91,0.288601,Ranked #91 (0.289): 7.2yr mixed product/consulting background. Concerns: some consulting background.
+CAND_0000184,92,0.287639,Ranked #92 (0.288): skills include airflow; 4.9yr experience. Concerns: some consulting background.
+CAND_0000035,93,0.281417,Ranked #93 (0.281): 4.3yr mixed product/consulting background. Concerns: some consulting background.
+CAND_0000348,94,0.279461,"Ranked #94 (0.279): 7.1yr mixed product/consulting background. Concerns: currently at consulting firm, long notice period (90 days)."
+CAND_0000108,95,0.278077,Ranked #95 (0.278): skills include rag; 3.6yr mixed product/consulting background. Concerns: some consulting background.
+CAND_0000268,96,0.277782,"Ranked #96 (0.278): career evidence of production; 11.3yr mixed product/consulting background. Concerns: currently at consulting firm, long notice period (90 days)."
+CAND_0000171,97,0.275247,"Ranked #97 (0.275): skills include production; 2.9yr mostly at product companies. Concerns: based outside India (UAE), not willing to relocate, long notice period (90 days)."
+CAND_0000118,98,0.274332,"Ranked #98 (0.274): skills include production; 7.2yr mixed product/consulting background. Concerns: currently at consulting firm, 120-day notice period."
+CAND_0000406,99,0.273914,"Ranked #99 (0.274): 1.9yr mostly at product companies. Concerns: based outside India (Australia), not willing to relocate, 150-day notice period."
+CAND_0000455,100,0.273519,"Ranked #100 (0.274): 12.5yr mostly at product companies. Concerns: currently at consulting firm, relocation required, long notice period (90 days)."
